@@ -45,6 +45,7 @@ const EMOJI_MAPPINGS: { [key: string]: string } = {
   loveface: "https://em-content.zobj.net/content/2020/07/27/loveface.png",
   awkward: "https://em-content.zobj.net/content/2020/07/27/awkward.png",
   shock: "https://em-content.zobj.net/content/2020/07/27/shock.png",
+  proud: "https://em-content.zobj.net/content/2020/07/27/proud.png"
 };
 
 const EMOJI_PATTERN = new RegExp(
